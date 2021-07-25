@@ -1,0 +1,2 @@
+# MANHINLO_ACTIVITY1.4
+The nth Power
